@@ -1,0 +1,15 @@
+
+22:37:14 =>first log message!
+22:37:14 =>/home/lemonc/MPRPC/example/callee/friendservice.cc:main:43
+22:46:2 =>[info]first log message!
+22:46:2 =>[info]/home/lemonc/MPRPC/example/callee/friendservice.cc:main:43
+22:46:2 =>[info]service_name:FriendServiceRpc
+22:46:2 =>[info]method_name:GetFriendsList
+22:47:43 =>[error]first log message!
+22:47:43 =>[info]/home/lemonc/MPRPC/example/callee/friendservice.cc:main:43
+22:47:43 =>[info]service_name:FriendServiceRpc
+22:47:43 =>[info]method_name:GetFriendsList
+22:49:7 =>[info]first log message!
+22:49:7 =>[info]/home/lemonc/MPRPC/example/callee/friendservice.cc:main:43
+22:49:7 =>[info]service_name:FriendServiceRpc
+22:49:7 =>[info]method_name:GetFriendsList
